@@ -7,4 +7,3 @@ You can enter the any city name and find out about it's current weather status
 
 ### [Live Preview](https://react-weather-app-olive.vercel.app/)
 
-##Languages and tools I want to learn:
